@@ -6,4 +6,5 @@
 }
 .column {
   flex: 50%;
+  overflow: scroll;
 }
