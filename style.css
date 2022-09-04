@@ -2,8 +2,11 @@
     display: flex;
 }
 
-#column {
+#column1 {
     flex: 50%;
+}
 
+#column2 {
+    flex:50%;
 }
 
