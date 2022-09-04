@@ -3,6 +3,11 @@
     float: left;
     width: 50%;
     top: 120px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 }
 
 #row:after {
@@ -11,15 +16,5 @@
     clar: both;
 }
 
-h2 {
-    color: #CBE4F9;
-    text-align: left;
-    font-family: serif;
-}
 
-p1 {
-    color: white;
-    text-align: left;
-    font-family: serif;
-}
 
