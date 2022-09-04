@@ -58,12 +58,9 @@ html {
 
 #title {
   position: absolute;
-  top: 100px;
-  left: 0;
-  right: 0;
   color: #FFF;
   text-align: center;
-  font-family: "lato", sans-serif;
+  font-family: "lato", serif;
   font-weight: 500;
   font-size: 50px;
   letter-spacing: 10px;
