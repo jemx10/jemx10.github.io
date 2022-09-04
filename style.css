@@ -2,11 +2,6 @@
     display: flex;
 }
 
-#column1 {
-    flex: 50%;
+#column {
+    column-count: 2;
 }
-
-#column2 {
-    flex: 50%;
-}
-
