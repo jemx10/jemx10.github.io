@@ -1,6 +1,8 @@
 column {
+    position: absolute;
     float: left;
     width: 50%;
+    top: left;
 }
 
 row:after {
