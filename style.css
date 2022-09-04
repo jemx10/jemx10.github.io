@@ -1,7 +1,9 @@
-.row {
-    display: flex;
+.columns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
 }
-
 .column {
-    column-count: 2;
+  flex: 50%;
 }
