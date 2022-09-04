@@ -69,6 +69,9 @@ html {
   letter-spacing: 10px;
   margin-top: -60px;
   padding-left: 10px;
+  -webkit-column-span:all;
+  -moz-column-span:all;
+  column-span:all;
 }
 #title span {
   background: -webkit-linear-gradient(white, #CBE4F9);
