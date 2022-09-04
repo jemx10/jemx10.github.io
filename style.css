@@ -1,14 +1,25 @@
-column {
+#column {
     position: absolute;
     float: left;
     width: 50%;
     top: 120px;
 }
 
-row:after {
+#row:after {
     content: "";
     display: table;
     clar: both;
 }
 
+#h2 {
+    color: #CBE4F9;
+    text-align: left;
+    font-family: serif;
+}
+
+#p1 {
+    color: white;
+    text-align: left;
+    font-family: serif;
+}
 
