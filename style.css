@@ -1,7 +1,7 @@
-#row {
+.row {
     display: flex;
 }
 
-#column {
+.column {
     column-count: 2;
 }
