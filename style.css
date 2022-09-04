@@ -2,7 +2,7 @@ column {
     position: absolute;
     float: left;
     width: 50%;
-    top: left;
+    top: 120px;
 }
 
 row:after {
